@@ -1,0 +1,7 @@
+IAM User
+    ↓
+CloudTrail Logging
+    ↓
+S3 Storage
+    ↓
+Security Investigation
